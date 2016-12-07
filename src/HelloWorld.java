@@ -7,6 +7,8 @@ import static org.lwjgl.glfw.GLFW.*;
 import static org.lwjgl.opengl.GL11.*;
 import static org.lwjgl.system.MemoryUtil.*;
 
+//yoyoyoyoyo
+
 public class HelloWorld {
 
 	// The window handle
